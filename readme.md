@@ -9,7 +9,7 @@ In my projects I work with HTML(5), CSS3, design, UX, SEO and responsive layouts
 
 I started with Ruby on Rails-development over two years ago and got a neck for it immediately. Since then I built all my private projects in Ruby on Rails and my work projects in Rails and CakePHP (which is a Rails clone in PHP). In my experience, Ruby on Rails is a superior framework that provides clear productivity benefits, more fun and yields in better end results. 
 
-This is the main reason that I apply for the position with you. I want to develop as a web developer and specialize in Ruby on Rails. I know the Ruby language well and know about the conventions associated with the framework. 
+I want to develop as a web developer and specialize in Ruby on Rails. I know the Ruby language well and know about the conventions associated with the framework. 
 
 As a person I am an innovative and creative person who is easy to get along with. I spend a great deal of my spare time researching web development and learning new techniques. I feel that I can see the broader picture bring it to the team.   
 
@@ -20,20 +20,19 @@ Andreas Eriksson
 ***
 
 ###Summary av skills and experience
-Experienced with agile development in lean teams with short sprints. 
-Very good knowledge of Ruby on Rails (versions 2.3 - 3.2) and other MVC frameworks  
-Very good knowledge of JQuery, JQuery UI and JQuery Mobile and all kinds plugins.  
+Very good knowledge of Ruby on Rails (versions 2.3 - 4.0) and other MVC frameworks  
+Very good knowledge of JQuery, JQuery UI and JQuery Mobile and all kinds of plugins  
 Very good knowledge of HTML(5),  CSS 3 and responsive layouts  
 Experienced with TDD with Rspec, Capybara, Factorygirl  
-Very good knowledge of databases, mainly MySQL, PostgresSQL but also MongoDB  
-Very good knowledge of managing Linux-servers and hosting Rails (and other) applications  
+Very good knowledge of databases, mainly MySQL, PostgresSQL but also some MongoDB  
+Good knowledge of managing Linux-servers and hosting Rails (and other) applications  
 Experienced with Capistrano-deployment on Apache/Nginx and Passenger/Unicorn  
 Experienced with Github as version management  
 Good knowledge of working with API:s and building restful api:s (JSON/XML)  
-Very good knowledge of security in web applications  
+Good knowledge of security in web applications  
 Experienced with cloud storage (Amazon S3)  
 
-###Curriculum Vitae		 	 	 		
+###Curriculum Vitae
 
 ***Education:***  
 Gymnasium 3 years - The Social Science Programme  
@@ -55,7 +54,9 @@ English - Fluently
 German - Poor  
 
 ***Work samples:***  
-http://www.first-iteration.com (My own startup, launching in June 2013)  
+_(I mainly build backend systems but have a few)_
+http://www.btfoto.se (Currently in Cake but soon launching a railsversion)  
+http://www.first-iteration.com (My own small startup, launching in August 2013)  
 http://www.gylleneuttern.se/  
 http://www.jagersro.se/  
 http://www.ahltorpmedia.se/ (Our corporate site)  
